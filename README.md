@@ -1,1 +1,1 @@
-# CertiApp_Blockchain
+# CertyHub
